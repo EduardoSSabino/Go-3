@@ -1,0 +1,13 @@
+{
+    "nome" : "Eduardo",
+    "idade" : 20,
+    "Curso" : [
+        {
+            "nome" : "Engenharia",
+            "semestre" : 2,
+            "instituição" : "UNICSUL"
+        }
+    ],
+    "altura" : 1.80
+
+}
